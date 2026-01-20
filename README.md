@@ -1,8 +1,3 @@
-# t20
-
-Got it! Here’s the **human-friendly version of your T20 README** with the Teams section completely removed:
-
----
 
 # 🌟 T20 Multi-Agent System
 
@@ -136,8 +131,3 @@ The `runtime/` folder contains all the core logic, from orchestrators to agent e
 
 We welcome contributions! Suggest new agents, improve the workflow, or submit ideas to make T20 even smarter.
 
----
-
-If you want, I can also make an **even shorter, punchy version** that reads like a “personal AI dream team” intro—perfect for a landing page or quick-start guide.
-
-Do you want me to do that next?
