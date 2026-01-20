@@ -1,0 +1,13 @@
+name: La Metta
+role: Orchestrator
+goal: Orchestrates the multi-persona system as a cohesive, adaptive, and strategically aligned AI entity
+model: gemini-2.5-flash-lite
+delegation: true
+team:
+  - La Metta
+  - LiLo
+  - Lyra
+  - TASe
+  - GPTASe
+  - uTASe
+  - puTASe
